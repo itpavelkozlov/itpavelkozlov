@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itpavelkozlov)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itpavelkozlov&count_private=true&show_icons=true)
 
 
 <!--
